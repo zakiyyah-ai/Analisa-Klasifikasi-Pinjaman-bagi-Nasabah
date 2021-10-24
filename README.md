@@ -4,5 +4,10 @@ Karena adanya pandemik ini, perusahaan berusaha memberikan pelayanan berupa keri
 Pemberian rekomendasi tindak lanjut pada pelanggan ini didasari pada kriteria tertentu, 
 dan perlu ditentukan faktor-faktor apa saja yang berpengaruh sehingga pelanggan mendapatkan treatment tertentu yang masuk dalam rekomendasi tindak lanjut program dari perusahaan.
 
-Tujuan Project: Klasifikasi nasabah yang akan dimasukkan pada rekomendasi tindak lanjut. 
-Pada kelas target rekomendasi tindak lanjut ini sendiri terdiri dari beberapa kelas seperti restrukturisasi dan angsuran biasa.
+Tujuan Project: Klasifikasi nasabah yang akan dimasukkan pada rekomendasi tindak lanjut. Pada kelas target rekomendasi tindak lanjut ini sendiri terdiri dari beberapa kelas seperti restrukturisasi dan angsuran biasa.
+Model: Regresi multinomial.
+Referensi model (Ref): Kelas pada rekomendasi tindak lanjut yang memiliki banyak pelanggan.
+Data: data yang digunakan terdiri dari 1000 baris.
+Tujuan Pembelajaran dari Project ini:
+    Memahami dasar-dasar sintak R untuk keperluan statistika dasar dan dasar-dasar machine learning.
+    Memberikan gambaran secara umum pemodelan dengan menggunakan R.
